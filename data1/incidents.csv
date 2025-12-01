@@ -1,0 +1,4 @@
+incident_id,domain,type,severity,status,reported_at
+1,cybersecurity,phishing,high,open,2025-11-20
+2,cybersecurity,malware,critical,investigating,2025-11-21
+3,cybersecurity,ransomware,medium,resolved,2025-11-22

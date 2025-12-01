@@ -1,0 +1,4 @@
+incident_id,service_name,incident_type,severity,status,detected_at,resolved_at
+1,Auth API,Outage,critical,resolved,2025-11-10,2025-11-10
+2,Payment Gateway,Latency,high,investigating,2025-11-15,
+3,Reporting Service,Degraded,medium,open,2025-11-18,
